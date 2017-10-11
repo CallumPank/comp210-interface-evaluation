@@ -76,7 +76,7 @@ h2{
   width:960px;
   background:#dde;
   margin: 30px auto;
-  position: relative;
+  position: left;
   overflow: auto;
   padding-bottom:80px;
 }
